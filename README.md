@@ -13,3 +13,8 @@ Deine Gewünschten Sekunden eintragen und die Milliesekunden Kopieren.
 
 ### Variablen / Abfragen
 coming soon
+
+# Meine Projekte!!!
+
+### [small.app](https://github.com/devkoma/CHashtag-WPF_project/tree/main/small.app)
+![image](https://user-images.githubusercontent.com/77354592/151018657-b750189f-ac63-4863-84a1-32f8d5426292.png)
